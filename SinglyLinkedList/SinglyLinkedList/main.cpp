@@ -4,9 +4,9 @@ int main()
 {
 	SinglyLinkedList<int> SLL;
 
-	SLL.add(3);
-	SLL.add(8);
-	
+	SLL.add(6);
+	SLL.add(7);
+
 	SLL.removeAll();
 
 	return 0;
